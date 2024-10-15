@@ -1,3 +1,3 @@
-The final exam game, even when zipped, is too large to commit to GitHub (free version)
+The final exam game, even when zipped, is too large to commit to GitHub without GitLFS
 
-Please contact me at jeanfrancoisretief@gmail.com if you wish to play this final game of 2023.
+Please contact me at jeanfrancoisretief@gmail.com if you wish to play this final game of 2024.
